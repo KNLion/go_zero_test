@@ -1,1 +1,2 @@
-学习使用 rebase 和 fetch命令 1
+学习使用 rebase 和 fetch命令 2
+练习使用 rebase 整理提交历史，并且使用 fetch 同步远程变更 
