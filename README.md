@@ -1,3 +1,4 @@
 # go_zero_test
-同样学习git merge
-这个是master分支
+学习使用git merge
+成功合并两者
+
